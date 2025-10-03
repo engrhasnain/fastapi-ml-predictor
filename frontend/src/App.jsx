@@ -74,7 +74,7 @@ function App() {
               <img
                 src={preview}
                 alt="Preview"
-                className="w-20 h-20 object-cover rounded-lg shadow-md"
+                className="w-90 h-90 object-cover rounded-lg shadow-md"
 
               />
             </div>
